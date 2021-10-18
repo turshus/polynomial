@@ -25,7 +25,7 @@ class Program {
                         break;
                     }
 
-                    Console.WriteLine("n = {0}", Math.Pow(2, i));
+                    Console.WriteLine("i = {1}\nn = {0}", Math.Pow(2, i), i);
 
                     //generate 10 arrays that will be multiplied
                     double[][] l_pArrays = new double[10][];
@@ -243,7 +243,7 @@ class Program {
 
         //Generate a list of random Doubles between 0.0 < x < 10.0
         for(int i = 0; i < l_newProblem.Length; i++) {
-            //add in values between 0 - 9 with 2 decimal spots
+            //add in values between -1 and 1 with 2 decimal spots
             l_newProblem[i] = new Random().Next(-1, 1) + Convert.ToDouble(new Random().NextDouble().ToString("f2"));
         }
 
