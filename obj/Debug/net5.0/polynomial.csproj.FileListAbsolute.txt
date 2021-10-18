@@ -1,0 +1,16 @@
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.exe
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.deps.json
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.runtimeconfig.json
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.runtimeconfig.dev.json
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.dll
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\ref\polynomial.dll
+C:\School\Fall 2021\cs5050\polynomial\bin\Debug\net5.0\polynomial.pdb
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.csprojAssemblyReference.cache
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.AssemblyInfoInputs.cache
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.AssemblyInfo.cs
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.csproj.CoreCompileInputs.cache
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.dll
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\ref\polynomial.dll
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.pdb
+C:\School\Fall 2021\cs5050\polynomial\obj\Debug\net5.0\polynomial.genruntimeconfig.cache
